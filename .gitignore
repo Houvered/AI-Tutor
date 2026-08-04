@@ -1,4 +1,29 @@
+# Python
 __pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Environment
 .env
-vector_store/
+
+# Project data (local only, never push)
+data/
 uploads/
+
+# Memory folder is local only (user decision, never push)
+memory/
+
+# Node / frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Legacy (kept out until cleanup)
+vector_store/

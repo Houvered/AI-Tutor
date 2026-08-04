@@ -1,3 +1,0 @@
-"""
-Test Package Initialization.
-"""
