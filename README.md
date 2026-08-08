@@ -63,7 +63,7 @@ docs/       Setup, architecture, API reference, decisions, deployment.
 tests/      pytest suite for the core logic.
 ```
 
-## Documentation
+## Documentatio
 
 - Setup and run: `docs/setup.md`
 - Architecture: `docs/architecture.md`
